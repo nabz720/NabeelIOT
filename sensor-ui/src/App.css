@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.Header {
+  background-color: rgba(41, 241, 195, 1);
+  height: 150px;
+  padding: 55px;
+  color: Bright Turquoise;
+}
